@@ -1,6 +1,6 @@
 # Projet_PHP
 
-Durant ce projet nous devions réaliser en binôme, une application de gestion d'une équipe de sport qui dans notre cas est celui d'une de volley.
+Durant ce projet nous devions réaliser en binôme, une application de gestion d'une équipe de sport qui dans notre cas est celui d'une équipe de volley.
 
 Ce projet requière la mise en pratique de plusieurs compétences :
 
